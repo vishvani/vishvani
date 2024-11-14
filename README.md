@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishvani Jilukara</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvani&label=Profile%20views&color=0e75b6&style=flat" alt="vishvani" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Clone**
+- 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **DataBricks**
 
-- 💬 Ask me about **Html , Css**
+- 💬 Ask me about **Databricks, SQL, PySpark, AI-ML**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vishvani-j-4b3798204/**
 
